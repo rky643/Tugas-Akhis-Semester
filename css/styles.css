@@ -11019,7 +11019,7 @@ section.resume-section .resume-section-content {
   scale:1;
 }
 .sosmed li a{
-  position:fixed;
+  position:absolute;
   display:flex;
  transform:rotate(calc(360deg/-8 * var(--i)));
   width:60px;
