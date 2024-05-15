@@ -10971,13 +10971,13 @@ section.resume-section .resume-section-content {
   }
 }
 .sosmed{
-  position:fixed;
+  position:relative;
  width:280px;
   height:280px;
   display:flex;
   align-items:center;
   justify-content:center;
-  left: 80%;
+  left: 30%;
   bottom: 3%;
 }
 .sosmed .toggle{
